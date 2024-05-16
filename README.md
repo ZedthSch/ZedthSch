@@ -1,4 +1,5 @@
-### Hi there 👋
+- 🔭 I'm currently taking notes, studying new languages, adding knowledges and personal projects.
+- 🌱 I’m currently learning Angular, Larabel, Python, C#, JAVA
 
 <!--
 **ZedthSch/ZedthSch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
